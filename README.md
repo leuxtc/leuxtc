@@ -9,7 +9,7 @@ azul mais claro: 03A6A6
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BCA3&text=LEONARDO%20RODRIGUES&fontSize=25&fontAlignY=20&fontColor=ffffff&height=120&section=header"/>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=leuxtc&theme=dark&show_icons=true"/>
+  <img width=40% src="https://github-readme-stats.vercel.app/api?username=leuxtc&theme=dark&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuxtc&theme=dark&hide_border=true"/>
 </div>
 
