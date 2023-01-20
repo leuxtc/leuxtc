@@ -1,11 +1,3 @@
-<!--
-vermelho: D90416
-rosa: D9043D
-azul escuro: 020659
-azul claro: 0339A6
-azul mais claro: 03A6A6
--->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BCA3&text=LEONARDO%20RODRIGUES&fontSize=25&fontAlignY=20&fontColor=ffffff&height=120&section=header"/>
 
 <div align="center">
@@ -14,8 +6,9 @@ azul mais claro: 03A6A6
 </div>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/leorodrosario/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://github.com/leuxtc" target="_blank"><img src="https://img.shields.io/badge/-Github-%23E4405F?style=for-the-badge&logo=github&logoColor=white&background=A6754B"</a>
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
   
 
