@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BCA3&text=LEONARDO%20RODRIGUES&fontSize=25&fontAlignY=20&fontColor=ffffff&height=120&section=header"/>
 
 <div align="center">
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=leuxtc&theme=dark&show_icons=true"/>
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=leuxtc&theme=dark&show_icons=true&count_private=true"/>
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuxtc&theme=dark&hide_border=true"/>
 </div><br><br>
 
@@ -22,7 +22,8 @@
 <div align="center">
   <h3>Learning</h3>
   <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BCA3&height=120&section=footer"/>
