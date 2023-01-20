@@ -10,6 +10,7 @@ azul mais claro: 03A6A6
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=leuxtc&theme=dark&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuxtc&layout=compact&theme=dark"/>
 </div>
 
 <div align="center">  
