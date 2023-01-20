@@ -14,10 +14,15 @@
 </div><br>
 
 <div align="center">
-  <h3>Contato<h3><br>
+  <h3>Contact me</h3>
   <a href = "mailto:leorod.rosario@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leorodrosario" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-  
-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div align="center">
+  <h3>Learning</h3>
+  <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BCA3&height=120&section=footer"/>
