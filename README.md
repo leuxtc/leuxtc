@@ -3,7 +3,7 @@
 <div align="center">
   <img width=50% src="https://github-readme-stats.vercel.app/api?username=leuxtc&theme=dark&show_icons=true&count_private=true"/>
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuxtc&theme=dark&hide_border=true"/>
-</div><br><br>
+</div><br>
 
 <div align="center" style="display: block">  
   <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -11,7 +11,7 @@
   <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div><br>
+</div>
 
 <div align="center">
   <h3>Contact me</h3>
