@@ -1,7 +1,7 @@
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BCA3&text=Leonardo%20Rodrigues&fontSize=25&fontColor=ffffff&height=120&section=header"/>
-<img width=50% src="https://github-readme-stats.vercel.app/api?username=leuxtc&theme=dark&show_icons=true&icon_color=A6754B&hide_border=true&count_private=true&cache_seconds=86400"/>
-<img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuxtc&theme=dark&hide_border=true&cache_seconds=86400"/>
+<img width=50% src="https://github-readme-stats-a8vb.vercel.app/api?username=leuxtc&theme=dark&show_icons=true&icon_color=A6754B&hide_border=true&count_private=true"/>
+<img width=35% src="https://github-readme-stats-a8vb.vercel.app/api/top-langs/?username=leuxtc&theme=dark&hide_border=true"/>
 </div>
 
 <h2 align="left">Languages</h2>
