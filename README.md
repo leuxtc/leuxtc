@@ -13,7 +13,7 @@
 
 <h2 align="right">About me:</h2> 
 <p align="right">Hi! My name is Leonardo, I'm 17 years old and I'm passionate about programming<br> I create websites, games, apps.
-Everything I can bring to life through codes. I also<br>like to play the guitar,
+Everything I can bring to life through codes. I also<br>like to play guitar,
 and play some games from time to time :P</p>
 
 <h2 align="left">Contact</h2>
