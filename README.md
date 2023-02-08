@@ -16,8 +16,9 @@
     <div>
         Tools
         <img align="right" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <img align="right" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+        <img align="right" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         <img align="right" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+        <img align="right" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
         <img align="right" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
     </div><br>
     <div>
@@ -43,26 +44,6 @@
         <a href="https://www.linkedin.com/in/leorodrosario" target="_blank"></a>
         <img align="right" width=150 src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=cyan" target="_blank"></a>
     </h3>
-</div>
-
-<div align="center">
-    <!--<div>
-        <h3 align="right">About me:</h3> 
-              
-            Hi! I'm Leonardo, I'm 17 years old and I'm passionate about programming<br> I create websites, games, apps. Everything I can bring to life                  through codes. I also<br>like to play guitar, and play some games from time to time :P
-
-            <a href="mailto:leorod.rosario@gmail.com" target="_blank">
-            <img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-            <a href="https://www.linkedin.com/in/leorodrosario" target="_blank">
-
-            <img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-            <br>
-            <img align="left" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-            <img align="left" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-            <img align="left" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-            <img align="left" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-            <img align="left" width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    </div> -->
-</div>        
+</div>       
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Seja%20bem-vindo!&fontSize=25&fontColor=ffffff&color=D9BCA3&height=150&section=footer"/>
