@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BCA3&text=Leonardo%20Rodrigues&fontSize=25&fontColor=ffffff&height=120&section=header"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1de0bd&text=Leonardo%20Rodrigues&fontSize=25&fontColor=ffffff&height=120&section=header"/>
     <img width=50% align="center" src="https://github-readme-stats-a8vb.vercel.app/api?username=leuxtc&theme=dark&show_icons=true&bg_color=0d1117&icon_color=A6754B&hide_border=true&count_private=true"/>
     <img width=35% align="center" src="https://github-readme-stats-a8vb.vercel.app/api/top-langs/?username=leuxtc&theme=dark&hide_border=true&bg_color=0d1117"/>
 </h1>
@@ -46,4 +46,4 @@
     </h3>
 </div>       
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Seja%20bem-vindo!&fontSize=25&fontColor=ffffff&color=D9BCA3&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Seja%20bem-vindo!&fontSize=25&fontColor=ffffff&color=1de0bd&height=150&section=footer"/>
