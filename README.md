@@ -32,11 +32,6 @@
 </h1>
 
 <div align="center">
-    <h1>Info</h1>
-    <div>
-        <h3>About me</h3>
-        <p>Hi! I'm Leonardo, I'm passionate about programming<br> I create websites, games, apps. Everything I can bring to life                  through codes. I also<br>like to play guitar, and play some games from time to time :P</p>
-    </div>
     <h3 align="left">
         Contact
         <a href="mailto:leorod.rosario@gmail.com" target="_blank">
